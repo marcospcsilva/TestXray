@@ -1,8 +1,6 @@
 #language: es
-Característica:
-    #Novo Arquivo
-	#Inserir arquivo no diretorio do Bath Module para processar no Pims Loader
-  @TPP-7 @TPP-9 @TPP-10 @Chrome @PIMSLOADER
+  Característica: none
+  @TPP-7 @Chrome @PIMSLOADER
   Escenario: Incluir arquivo Serv. QA-10443
     Cuando usuario con el navegador abierto acceso al ambiente 10443
     Y ingresar acceso PIMS elemento entrada el valor c93854
